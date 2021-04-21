@@ -1,0 +1,65 @@
+.top-area {
+    border: 10px solid gold;
+    text-align: center;
+    padding: 6px;
+
+}
+
+
+.top-size {
+    font-size: 50px;
+
+}
+
+.table-of-singers {
+    width: 100%;
+
+}
+
+.table-of-singers td {
+    padding: 5px 10px;
+    border: 5px solid gold;
+    text-align: center;
+}
+
+
+.singers-pic{
+    width: 80px;
+    border: 4px solid gold;
+    padding: 10px;
+
+}
+
+
+.name-size {
+    width: 250px;
+    font-size: 40px;
+
+
+}
+
+.name-size:hover {
+    font-size: 30px;
+    background-color:green;
+    color: black;
+}
+
+
+.quality-icon {
+    width: 65px;
+    padding:15px;
+    border-radius: 90px;
+
+}
+
+.quality-icon:hover{
+    width: 35px;
+    
+}
+
+button {
+    width: 80px;
+    height: 70px;
+
+
+}
